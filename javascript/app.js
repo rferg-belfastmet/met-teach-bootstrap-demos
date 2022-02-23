@@ -9,9 +9,9 @@ function toggleDescription(){
 
         bsCollapseBrief.toggle();
         bsCollapseFull.toggle();
-    
 
 }
+
 
 
 
